@@ -25,5 +25,5 @@
 def hi():
     print("hi")
  # esto dara un error de argumento donde se esta enviando uno, 
- # cuando la funcion no recibe argumento o parametro    
+ # cuando la funcion no recibe argumento o no se le envian parametros    
 hi(5) 
