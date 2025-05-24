@@ -421,6 +421,3 @@ colors = {
 
 for col, rgb in colors.items():
     print(col, ":", rgb) # Imprime: por cada iteración color : rgb ejemplo: blanco:(255, 255, 255) el rgb como tupla.
-
-
-
